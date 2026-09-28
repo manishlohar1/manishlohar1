@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishlohar1&label=Profile%20views&color=0e75b6&style=flat" alt="manishlohar1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishlohar1" alt="manishlohar1" /></a> </p>
-
-- 🔭 I’m currently working on [AI/ML and RAG-based projects, including local LLM applications and intelligent data-driven systems.](https://github.com/manishlohar1/scholarlens-hybrid-rag)
+- 🔭 I’m currently working on [AI/ML and RAG-based projects, including local LLM applications and intelligent data-driven systems.]
 
 - 🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, and AI application development.**
 
