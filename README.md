@@ -1,35 +1,309 @@
 <h1 align="center">Hi 👋, I'm Manish Lohar</h1>
-<h3 align="center">🤖 AI/ML & Backend Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishlohar1&label=Profile%20views&color=0e75b6&style=flat" alt="manishlohar1" /> </p>
-
-- 🔭 I’m currently working on **AI/ML and RAG-based projects, including local LLM applications and intelligent data-driven systems.**
-
-- 🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, and AI application development.**
-
-- 👯 I’m looking to collaborate on **AI/ML, Generative AI, RAG, NLP, Computer Vision, and Python backend projects.**
-
-- 🤝 I’m looking for help with **Building scalable AI applications, advanced RAG architectures, and production-ready ML systems.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/manishlohar1](https://github.com/manishlohar1)
-
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, Generative AI, RAG, FastAPI, SQL, FAISS, and Ollama.**
-
-- 📫 How to reach me **manishmalviya4881@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning data and AI concepts into practical, working applications.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/manishm01799523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manishm01799523" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manish-lohar-22b084328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-lohar-22b084328" height="30" width="40" /></a>
-<a href="https://instagram.com/manish_malviya01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_malviya01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/manishlohar7738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manishlohar7738" height="30" width="40" /></a>
+<h3 align="center">
+AI/ML Engineer • Generative AI • RAG • Backend Development
+</h3>
+<p align="center">
+  <a href="https://github.com/manishlohar1">
+    <img src="https://komarev.com/ghpvc/?username=manishlohar1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/manishlohar1?tab=followers">
+    <img src="https://img.shields.io/github/followers/manishlohar1?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/manishlohar1?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=flat&logo=github" alt="Repositories"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/manish-lohar-22b084328">LinkedIn</a>
+  •
+  <a href="mailto:manishmalviya4881@gmail.com">Email</a>
+  •
+  <a href="https://github.com/manishlohar1">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+⸻
 
+👨‍💻 About Me
 
+I’m an AI/ML Engineer focused on building practical, intelligent applications using Machine Learning, Deep Learning, Generative AI, and modern Retrieval-Augmented Generation architectures.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishlohar1&" alt="manishlohar1" /></p>
+My primary focus is on turning AI concepts into working end-to-end systems — from data processing and model development to retrieval pipelines, LLM integration, APIs, and backend architecture.
+
+AI/ML
+  ├── Machine Learning
+  ├── Deep Learning
+  ├── NLP
+  ├── Computer Vision
+  │
+  ├── Generative AI
+  │   ├── LLMs
+  │   ├── Transformers
+  │   ├── Prompt Engineering
+  │   └── RAG
+  │
+  └── AI Backend
+      ├── Python
+      ├── FastAPI
+      ├── REST APIs
+      ├── SQL
+      └── Local LLM Applications
+
+🚀 What I’m Currently Working On
+
+* 🤖 AI/ML and Generative AI applications
+* 🔎 Hybrid RAG and intelligent retrieval systems
+* 🧠 LLM-powered applications using local models
+* ⚡ FastAPI-based AI backends
+* 📚 NLP and semantic search systems
+* 👁️ Computer Vision applications
+* 📊 Data-driven Machine Learning systems
+
+🎯 Current Learning Focus
+
+Advanced Machine Learning → Deep Learning → NLP → Transformers → LLMs → RAG → AI Agents → Production AI Systems
+
+⸻
+
+🧠 AI/ML Engineering Focus
+
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-0e75b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6f42c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-ff6f00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+⸻
+
+⭐ Featured Project
+
+🔬 ScholarLens — Local Hybrid RAG Research Assistant
+
+An end-to-end AI research assistant designed to retrieve relevant academic information using hybrid search + reranking + local LLM generation.
+
+🔥 Core Architecture
+
+                User Query
+                    │
+                    ▼
+            Query Processing
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+       BM25 Search       Semantic Search
+          │                   │
+          │                 FAISS
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+           Reciprocal Rank
+             Fusion (RRF)
+                    │
+                    ▼
+          Candidate Documents
+                    │
+                    ▼
+          Cross-Encoder Reranker
+                    │
+                    ▼
+             Top Relevant
+                Chunks
+                    │
+                    ▼
+              Local LLM
+            Ollama / Gemma
+                    │
+                    ▼
+        Grounded Final Answer
+                    │
+                    ▼
+          Sources / Citations
+
+🛠️ Technology Stack
+
+Python FastAPI BM25 FAISS Sentence Transformers BGE RRF Cross Encoder Ollama Gemma SQLite HTML CSS JavaScript
+
+💡 Key Features
+
+* 🔎 Hybrid keyword + semantic retrieval
+* 🧮 Reciprocal Rank Fusion
+* 🧠 Cross-encoder reranking
+* 🤖 Local LLM generation
+* 📚 Source-grounded responses
+* 🚫 "I don't know" fallback for unsupported information
+* ⚡ FastAPI backend
+* 💾 Persistent data/session handling
+* 🌐 Custom frontend interface
+
+<p align="center">
+  <a href="https://github.com/manishlohar1">
+    <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+⸻
+
+🧰 Technical Skills
+
+👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,js,java,cpp,c&theme=light" />
+</p>
+
+🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=light" />
+</p>
+
+Machine Learning:
+Classification • Regression • Clustering • Feature Engineering • Model Evaluation • Data Preprocessing • Statistical Analysis
+
+Deep Learning:
+Neural Networks • CNN • Model Training • Optimization • TensorFlow • PyTorch
+
+NLP:
+Tokenization • POS Tagging • Text Processing • Embeddings • Transformers • Hugging Face
+
+Generative AI:
+LLMs • Prompt Engineering • RAG • Embeddings • Vector Search • Local LLMs • Ollama
+
+🔎 RAG & Information Retrieval
+
+RAG BM25 FAISS Vector Search Embeddings Semantic Search Hybrid Search RRF Cross-Encoder Reranking
+
+⚡ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs&theme=light" />
+</p>
+
+FastAPI REST APIs JSON Backend Architecture API Integration
+
+🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=light" />
+</p>
+
+MySQL PostgreSQL MongoDB SQLite SQL
+
+🛠️ Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=light" />
+</p>
+
+Git GitHub Docker VS Code Linux Ollama
+
+⸻
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishlohar1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishlohar1&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+⸻
+
+🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishlohar1&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+⸻
+
+🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manishlohar1&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+</p>
+
+⸻
+
+📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishlohar1&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
+</p>
+
+⸻
+
+📂 What You’ll Find Here
+
+📁 AI / ML Projects
+    ├── Machine Learning
+    ├── Deep Learning
+    ├── NLP
+    └── Computer Vision
+📁 Generative AI
+    ├── LLM Applications
+    ├── RAG Systems
+    ├── Semantic Search
+    └── Local AI
+📁 Backend
+    ├── FastAPI
+    ├── REST APIs
+    └── Data / AI Services
+📁 Data Science
+    ├── Data Cleaning
+    ├── EDA
+    ├── Feature Engineering
+    └── Data Analytics
+
+⸻
+
+💼 Engineering Approach
+
+I focus on building AI systems that are:
+
+Principle	Approach
+🧠 Intelligence	ML, DL, NLP & LLMs
+🔎 Retrieval	Semantic + Keyword Search
+🎯 Relevance	Reranking & Retrieval Fusion
+⚡ Performance	Efficient Processing & APIs
+🔒 Control	Local AI & Reproducible Pipelines
+🧩 Architecture	Modular & Maintainable Systems
+📊 Reliability	Evaluation & Grounded Responses
+
+⸻
+
+🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/manish-lohar-22b084328">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:manishmalviya4881@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/manishlohar1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://twitter.com/manishm01799523">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://instagram.com/manish_malviya01">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/c/manishlohar7738">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
+
+⸻
+
+<h3 align="center">🤖 Building AI Systems That Solve Real Problems</h3>
+<p align="center">
+<i>Machine Learning • Deep Learning • Generative AI • RAG • Backend Engineering</i>
+</p>
+<p align="center">
+⭐ If you find something useful here, consider giving the repository a star!
+</p>
